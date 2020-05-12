@@ -1,0 +1,2 @@
+# scaling-carnival
+Diabetes-Prediction
